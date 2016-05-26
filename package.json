@@ -1,0 +1,20 @@
+{
+  "name": "docker-local-npm",
+  "description": "Dockerized local-npm",
+  "version": "1.0.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orlandohohmeier/docker-local-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "local",
+    "docker"
+  ],
+  "author": {
+   "name": "Orlando Hohmeier",
+   "email": "hello@orlandohohmeier.com"
+ },
+  "license": "Apache-2.0",
+}
