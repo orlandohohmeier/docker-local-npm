@@ -5,7 +5,6 @@ MAINTAINER Orlando Hohmeier <hello@orlandohohmeier.com>
 WORKDIR /local-npm
 ADD . /local-npm/
 
-RUN mkdir -p /var/local-npm/directory
 RUN npm set progress=false && npm install --no-color && npm dedupe
 
 EXPOSE 5080
