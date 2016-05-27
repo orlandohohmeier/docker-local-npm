@@ -13,8 +13,8 @@
     "docker"
   ],
   "author": {
-   "name": "Orlando Hohmeier",
-   "email": "hello@orlandohohmeier.com"
- },
+    "name": "Orlando Hohmeier",
+    "email": "hello@orlandohohmeier.com"
+  },
   "license": "Apache-2.0",
 }
