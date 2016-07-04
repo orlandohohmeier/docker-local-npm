@@ -1,6 +1,6 @@
 # 🐳 local-npm
 
-`Dockerfile` to build a local-npm container image.
+`Dockerfile` to build a [local-npm](https://github.com/nolanlawson/local-npm) container image.
 
 ## Requirements
 
