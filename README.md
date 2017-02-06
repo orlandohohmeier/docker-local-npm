@@ -1,5 +1,7 @@
 # 🐳 local-npm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/orlandohohmeier/docker-local-npm.svg)](https://greenkeeper.io/)
+
 `Dockerfile` to build a [local-npm](https://github.com/nolanlawson/local-npm) container image.
 
 ## Requirements
