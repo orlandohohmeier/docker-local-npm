@@ -20,6 +20,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "local-npm": "1.6.0"
+    "local-npm": "2.2.2"
   }
 }
