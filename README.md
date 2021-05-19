@@ -16,7 +16,7 @@ Use the following command to pull the latest image and run it (recommended metho
 
 _This command will start the `local-npm` container, mount a data volume (working-directory/data) as `/data` and map the container port (`5080`- default local-npm port) to the host port (`5080`)_
 
-Then configure npm to use your shine new local npm registry with the following command:
+Then configure npm to use your shiny new local npm registry with the following command:
 
 	$ npm set registry http://0.0.0.0:5080
 
